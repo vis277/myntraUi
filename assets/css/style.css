@@ -208,7 +208,8 @@ ul li:hover {
 }
 ul {
   padding: 0px;
-  max-width: 13rem; /* change made*/
+
+  width: 13rem; /* change made*/
 }
 /* .women {
   position: relative;
@@ -386,7 +387,7 @@ sup {
   gap: 0.3em;
   border-radius: 36px;
   padding: 0.33em;
-  max-width: 5.5em;
+  width: 5.5em;
   justify-content: center;
 }
 
