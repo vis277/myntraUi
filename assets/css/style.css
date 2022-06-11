@@ -274,7 +274,7 @@ sup {
 }
 
 .profile-image {
-  background-image: url("/assets/image/MyntraWebSprite_27_01_2021.png");
+  background-image: url("./assets/image/MyntraWebSprite_27_01_2021.png");
   background-repeat: no-repeat;
   background-position: -603px -117px;
   height: 32px;
@@ -282,7 +282,7 @@ sup {
   zoom: 0.5;
 }
 .wishlist-image {
-  background-image: url("/assets/image/MyntraWebSprite_27_01_2021.png");
+  background-image: url("./assets/image/MyntraWebSprite_27_01_2021.png");
   background-repeat: no-repeat;
   background-position: -631px -170px;
   width: 32px;
@@ -290,7 +290,7 @@ sup {
   zoom: 0.55;
 }
 .bag-image {
-  background-image: url("/assets/image/MyntraWebSprite_27_01_2021.png");
+  background-image: url("./assets/image/MyntraWebSprite_27_01_2021.png");
   background-repeat: no-repeat;
   background-position: -688px -117px;
   width: 32px;
